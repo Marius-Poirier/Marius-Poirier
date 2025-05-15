@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm marius</h1>
-<h3 align="center">A student at polyetch Montpellier</h3>
+Hi , I'm marius
+A student at polyetch Montpellier
 
 - 🔭 I’m currently working on [Card game project](https://caracaca-frontend.cluster-ig3.igpolytech.fr)
 
