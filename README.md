@@ -1,7 +1,7 @@
 Hi , I'm marius
 A student at polyetch Montpellier
 
-- 🔭 I’m currently working on [Card game project](https://caracaca-frontend.cluster-ig3.igpolytech.fr)
+- 🔭 I’m currently working on [Spotify game project](https://github.com/ASAPmarius/musicQuiz)
 
 - 🌱 I’m currently learning **many things**
 
