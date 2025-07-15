@@ -1,5 +1,4 @@
-Hi , I'm marius
-A student at polyetch Montpellier
+Hi , I'm marius student at polyetch Montpellier
 
 - 🔭 I’m currently working on [Spotify game project](https://github.com/ASAPmarius/musicQuiz)
 
