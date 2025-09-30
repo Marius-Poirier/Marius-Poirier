@@ -46,7 +46,7 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 
 
 <a href="https://github.com/Marius-Poirier/Projet_WEB">
-  <strong>musicQuiz</strong>
+  <strong>Projet_WEB</strong>
 </a><br>
 <em>Interactive web app to play card games with scalable strucutre and secure login, comes with tools to add your own card games rules.</em>
 
