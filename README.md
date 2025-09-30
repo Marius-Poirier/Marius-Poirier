@@ -17,7 +17,7 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 ## Featured Projects
 
 <a href="https://github.com/Marius-Poirier/RedLineProject">
-  <img align="left" width="48" src="https://github.com/Marius-Poirier/RedLineProject/raw/main/.github/icon.png" alt="RedLineProject icon" />
+  <img align="left" width="48" src="https://www.freepik.com/premium-vector/festival-icon-outline_290687658.htm" alt="RedLineProject icon" />
 </a>
 <strong><a href="https://github.com/Marius-Poirier/RedLineProject">RedLineProject</a></strong><br>
 <em>Angular-based festival management website featuring comprehensive event planning and coordination tools.</em>
