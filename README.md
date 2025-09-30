@@ -17,7 +17,6 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 ## Featured Projects
 
 <a href="https://github.com/Marius-Poirier/RedLineProject">
-  <img align="left" width="48" src="https://github.com/Marius-Poirier/RedLineProject/raw/main/.github/icon.png" alt="RedLineProject icon" />
 </a>
 <strong><a href="https://github.com/Marius-Poirier/RedLineProject">RedLineProject</a></strong><br>
 <em>Angular-based festival management website featuring comprehensive event planning and coordination tools.</em>
@@ -25,7 +24,6 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 <br clear="left"/>
 
 <a href="https://github.com/Marius-Poirier/Dekal">
-  <img align="left" width="48" src="https://github.com/Marius-Poirier/Dekal/raw/main/.github/icon.png" alt="Dekal icon" />
 </a>
 <strong><a href="https://github.com/Marius-Poirier/Dekal">Dekal</a></strong><br>
 <em>Swift implementation of the strategic board game "Dekal", showcasing iOS development expertise.</em>
@@ -33,7 +31,6 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 <br clear="left"/>
 
 <a href="https://github.com/Marius-Poirier/JungleFruitCatchers">
-  <img align="left" width="48" src="https://github.com/Marius-Poirier/Dekal/raw/main/.github/icon.png" alt="Dekal icon" />
   <strong>JungleFruitCatchers</strong>
 </a><br>
 <em>Innovative HR project utilizing hand recognition technology for an interactive game experience where players catch fruits and dodge bombs.</em>
