@@ -35,15 +35,12 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 </a><br>
 <em>Innovative HR project utilizing hand recognition technology for an interactive game experience where players catch fruits and dodge bombs.</em>
 
+<br clear="left"/>
+
 <a href="https://github.com/Marius-Poirier/musicQuiz">
   <strong>musicQuiz</strong>
 </a><br>
 <em>Interactive music quiz application built with React, leveraging the Spotify API to create engaging music challenges.</em>
-
-<a href="https://github.com/Marius-Poirier/S3">
-</a>
-<strong><a href="https://github.com/Marius-Poirier/S3">S3</a></strong><br>
-<em>Comprehensive course repository documenting learning resources and technical knowledge.</em>
 
 <br clear="left"/>
 
