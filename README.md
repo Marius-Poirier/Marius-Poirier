@@ -41,7 +41,6 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 <em>Interactive music quiz application built with React, leveraging the Spotify API to create engaging music challenges.</em>
 
 <a href="https://github.com/Marius-Poirier/S3">
-  <img align="left" width="48" src="https://github.com/Marius-Poirier/S3/raw/main/.github/icon.png" alt="S3 icon" />
 </a>
 <strong><a href="https://github.com/Marius-Poirier/S3">S3</a></strong><br>
 <em>Comprehensive course repository documenting learning resources and technical knowledge.</em>
