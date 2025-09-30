@@ -1,5 +1,3 @@
-<!-- GitHub Profile README for Marius Poirier -->
-
 <h1 align="center">Marius Poirier</h1>
 
 <p align="center">
@@ -10,7 +8,7 @@
 
 ## About Me
 
-I'm a Data Science, Management, and Software Architecture professional passionate about building innovative solutions at the intersection of technology and creativity. My work spans from enterprise-level applications to interactive experiences, always focusing on clean architecture and meaningful user impact.
+I'm a Data Science, Management, and Software Architecture student passionate about building innovative and creative solutions.
 
 Beyond code, I'm deeply passionate about music and fashion, bringing creative thinking to every technical challenge I tackle.
 
@@ -35,6 +33,7 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 <br clear="left"/>
 
 <a href="https://github.com/Marius-Poirier/JungleFruitCatchers">
+  <img align="left" width="48" src="https://github.com/Marius-Poirier/Dekal/raw/main/.github/icon.png" alt="Dekal icon" />
   <strong>JungleFruitCatchers</strong>
 </a><br>
 <em>Innovative HR project utilizing hand recognition technology for an interactive game experience where players catch fruits and dodge bombs.</em>
