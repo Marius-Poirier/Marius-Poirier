@@ -57,7 +57,7 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 ## Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,angular,react,swift,python,git,docker,aws" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,angular,react,swift,python,git,docker" alt="Tech stack icons" />
 </p>
 
 **Primary Stack:** TypeScript, JavaScript, Java, Angular  
@@ -79,10 +79,3 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 </p>
 
 ---
-
-<details>
-<summary>Recent Activity</summary>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marius-Poirier&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
-
-</details>
