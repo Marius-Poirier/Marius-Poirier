@@ -65,18 +65,6 @@ Beyond code, I'm deeply passionate about music and fashion, bringing creative th
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marius-Poirier&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marius-Poirier&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-</p>
-
----
-
 ## Interests & Focus
 
 **Professional:** Data Science | Software Architecture | Management  
